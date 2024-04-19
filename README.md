@@ -1,48 +1,62 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/HQdlhcoz)
+# Party Finder
+### Created by Daelop
 
-<div align="center">
+## Introduction
 
-</br></br>
-[![iod logo](https://x4w8f4y8.rocketcdn.me/wp-content/uploads/2020/05/iod_h_tp_white_c.png)](#)
-</br></br>
-![iod_miniproject_2](https://i.ibb.co/84Dbdx8/iod-gold.png)
-</br></br>
+Party Finder is a fullstack application built in [Next.js](https://nextjs.org/docs) and [Express](https://expressjs.com/). Party Finder provides a web-based platform for listing, managing and finding online community gaming events.
 
-</div>
+## Documentation
 
->## Capstone Project
+The documentation for Party Finder is split between multiple documents found below.
+
+### Changelog
+
+The changelog contains a summary of all notable updates of Party Finder.
+
+- [Link](/documentation/changelog.md)
+
+### Party Finder SRS
+
+The Party Finder SRS outlines the applications the applications goals, why they are important, and how they will be accomplished.
+
+- [Link](/documentation/Party%20Finder%20SRS.md)
+
+### Feature Implementation
+
+The Party Finder Feature Implementation document describes how current features are implemented and future features will be implemented.
+
+- [link](/documentation/feature%20implementation.md)
+
+### PF-Docs
+
+PF-Docs is a [Swagger](https://swagger.io/tools/swaggerhub/) document describing how the backend, PfApi, works.
+
+- [Link](/documentation/PF-Docs.JSON)
+
+### User Stories and Prototypes
+
+Examples of Party Finder's user stories are shown in two different prototypes. One of these prototypes shows the user story for event participants and the other show the user story for event organizers.
+
+- [Participant Flow](https://www.figma.com/proto/25PWEFNV8XTcqmee9DVRK0/Party-Finder-2.0-Mock-up?type=design&node-id=0-1&t=DDbfbnfzr0dr8Zbz-0&scaling=contain&starting-point-node-id=1%3A108&show-proto-sidebar=1)
+
+- [Organizer Flow](https://www.figma.com/proto/25PWEFNV8XTcqmee9DVRK0/Party-Finder-2.0-Mock-up?type=design&node-id=0-1&t=DDbfbnfzr0dr8Zbz-0&scaling=contain&starting-point-node-id=1%3A89&show-proto-sidebar=1)
+
+### UI Design
+
+The plans for Party Finder's UI design can be found in a figma document.
+
+- [Link](https://www.figma.com/file/25PWEFNV8XTcqmee9DVRK0/Party-Finder-2.0-Mock-up?type=design&node-id=0%3A1&mode=design&t=DDbfbnfzr0dr8Zbz-1)
+
+### Testing
+
+The testing document outlines the details and results of QA tests run on Party Finder.
+NOTE: This document is currently a work in progress.
+
+- [Link](/documentation/testing.md)
+
+### References
+
+The references document is a list of Party Finder's dependencies with links to relevant documentation.
+- [Link](/documentation/references.md)
 
 
-You are required to define, design and deliver a software 
-project towards the end of the course, showcasing the skills 
-you have learnt in the course. It will give you full exposure to 
-the software development life cycle.
-
-
-### Project deliverables:
-- Code (GitHub repository including a Readme file) (*THIS)
-- Presentation and Demo of 5-10 minutes
-- Project documentation (template provided in slack/email)
-
-### Scope
-Your project must make use of the following:
-- Client-Server architecture (or Client - Server - other services)
-- Displaying and Updating Data
-- Database for CRUD Operations
-- User Interface for Data Submission
-
-<br>
-
-
-
-
-
-> [!Important]
-> ### Documentation archive
-> Ensure that all documentation for the Capstone project is provided within a dedicated folder in this repository, adhering to appropriate file formats.
-> 
-> This is a **REQUIREMENT** to complete the course.
-
-
-
-<br><br>
